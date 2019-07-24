@@ -1,6 +1,4 @@
 # hidSkinPlex
-Scripts and analysis workflow from Schmedes et al. 2017 (under review at FSI: Genetics)
+Scripts and analysis workflow from  Schmedes, S.E., Woerner, A.E., Novroski, N.M.M., Wendt, F.R., King, J.L., Stephens, K.M., and Budowle, B. (2018) Targeted sequencing of clade-specific markers from skin microbiomes for forensic human identification. Forensic Sci Int-Gen 32:50-61.
 
-The scripts provided were used in Schmedes et al. 2017; however, I am in the process of putting together a more formal pipeline for others to use. Please be patient! 
-
-In the meantime, please direct any questions/comments to sarahschmedes@gmail.com.
+Please direct any questions/comments to sarahschmedes@gmail.com.
